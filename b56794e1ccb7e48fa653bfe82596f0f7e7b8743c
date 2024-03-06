@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3070aee1_8ba60419",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-03-06T14:46:30Z",
+      "side": 1,
+      "message": "PTAL given they relocated UWB apk / cert.",
+      "revId": "b56794e1ccb7e48fa653bfe82596f0f7e7b8743c",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
